@@ -1,0 +1,31 @@
+Getting Started;
+JavaScript Refresher;
+Node.js Basics;
+Efficient Development;
+Using Express.js;
+Templating Engines;
+Model-View-Controller;
+Advanced Routes & Models;
+Node + SQL (MySQL);
+Using Sequelize;
+Node + NoSQL (MongoDB);
+Using Mongoose;
+Session & Cookies;
+Authentication;
+Sending E-mails;
+Authentication Deep Dive;
+User Input validation;
+Error Handling;
+File Uploads & Downloads;
+Pagination;
+Async Requests;
+Handling Payments;
+REST API Basics;
+Advanced REST API Features;
+Using async-await;
+Websockets & Socket.io;
+GraphQL;
+Deployment;
+Beyond Web Servers;
+Node + TypeScript, Deno
+
