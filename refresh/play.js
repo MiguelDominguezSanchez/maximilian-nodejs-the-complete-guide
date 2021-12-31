@@ -1,3 +1,6 @@
+// Working with Objects, Properrties & Methods
+
+/*
 const person = {
 	name: 'Max',
 	age: 29,
@@ -9,3 +12,19 @@ const person = {
 // console.log(person)
 
 person.greet()
+*/
+
+const hobbies = ['Sports', 'Cooking']
+// for (let hobby of hobbies) {
+// 	console.log(hobby)
+// }
+
+// console.log(
+// 	hobbies.map((hobby) => {
+// 		return 'Hobby:' + hobby
+// 	})
+// )
+
+console.log(hobbies.map((hobby) => 'Hobby:' + hobby))
+
+console.log(hobbies)
